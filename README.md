@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as software enginner<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I used to learn new things</p>
+<p align="left"> 🔭 I’m working as software enginner<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I used to learn new things</p>
 
 ###
 
