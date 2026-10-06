@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# original photos stay local; only the prepped, background-removed version is committed
+photo.*

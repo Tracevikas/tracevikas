@@ -1,0 +1,5 @@
+pillow
+numpy
+# optional: background removal + contrast boost in prep_photo.py
+opencv-python
+rembg
