@@ -22,7 +22,7 @@ INFO = [
     ("Backend", "Node.js · MongoDB · MySQL"),
     ("Basics", "HTML5 · CSS3"),
     None,
-    ("Projects", "portfoliov2 · online-store · truevisory"),
+    ("Portfolio", "github.com/Tracevikas/portfoliov2"),
     ("GitHub", "github.com/Tracevikas"),
     ("LinkedIn", "in/vikas-kushwaha-098844297"),
     ("Uptime", "on GitHub since 2020"),
