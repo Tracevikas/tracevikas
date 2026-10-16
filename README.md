@@ -1,8 +1,12 @@
 <div align="center">
 
+<h1>Vikas Kushwaha</h1>
+
+<p><strong>Software Engineer</strong> · Full-stack web developer working with <strong>JavaScript, TypeScript, React, Next.js and Node.js</strong></p>
+
 <h3><code>vikas@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<img src="./contrib-heatmap.svg" width="860" alt="Vikas Kushwaha GitHub contribution heatmap" />
 
 <br><br>
 
@@ -10,8 +14,29 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./vikas-ascii.svg" width="370" alt="ASCII portrait of Vikas" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Vikas Kushwaha: Software Engineer, JavaScript, TypeScript, React, Next.js, Node.js" /></td>
+    <td valign="top"><img src="./vikas-ascii.svg" width="370" alt="ASCII art portrait of Vikas Kushwaha, software engineer" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Vikas Kushwaha, Software Engineer at Square Yards: JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, MongoDB, MySQL" /></td>
+  </tr>
+</table>
+
+<p>
+I'm Vikas Kushwaha, a software engineer building web apps at Square Yards.<br>
+I work across the stack: React, Next.js and Tailwind CSS on the frontend, Node.js, MongoDB and MySQL on the backend.<br>
+Right now I'm learning Next.js internals and React Server Components.
+</p>
+
+<br>
+
+<h3><code>vikas@github ~ $ ls ./projects</code></h3>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Tracevikas/portfoliov2"><strong>portfoliov2</strong></a></td>
+    <td>My developer portfolio</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Tracevikas/scrawlspace"><strong>Scrawlspace</strong></a></td>
+    <td>Real-time multiplayer whiteboard with live cards: to-dos, code snippets, tables, Mermaid diagrams and runnable API requests, end-to-end encrypted</td>
   </tr>
 </table>
 
@@ -79,7 +104,8 @@ Each tool lives in its own folder and is registered in a single `registry.ts`. R
 
 <h3><code>vikas@github ~ $ cat contact.txt</code></h3>
 
-<a href="https://www.linkedin.com/in/vikas-kushwaha-098844297/"><img src="https://img.shields.io/badge/LinkedIn-vikas--kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Tracevikas"><img src="https://img.shields.io/badge/GitHub-Tracevikas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Tracevikas/portfoliov2"><img src="https://img.shields.io/badge/Portfolio-portfoliov2-39d353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vikas Kushwaha portfolio" /></a>
+<a href="https://www.linkedin.com/in/vikas-kushwaha-098844297/"><img src="https://img.shields.io/badge/LinkedIn-vikas--kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vikas Kushwaha on LinkedIn" /></a>
+<a href="https://github.com/Tracevikas"><img src="https://img.shields.io/badge/GitHub-Tracevikas-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vikas Kushwaha on GitHub" /></a>
 
 </div>
