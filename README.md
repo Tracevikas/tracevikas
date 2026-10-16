@@ -31,8 +31,8 @@ Right now I'm learning Next.js internals and React Server Components.
 
 <table>
   <tr>
-    <td><a href="https://github.com/Tracevikas/portfoliov2"><strong>portfoliov2</strong></a></td>
-    <td>My developer portfolio</td>
+    <td><a href="https://vikaskushwaha.vercel.app/"><strong>Portfolio</strong></a></td>
+    <td>My developer portfolio (<a href="https://github.com/Tracevikas/portfoliov2">source</a>)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Tracevikas/scrawlspace"><strong>Scrawlspace</strong></a></td>
@@ -104,7 +104,7 @@ Each tool lives in its own folder and is registered in a single `registry.ts`. R
 
 <h3><code>vikas@github ~ $ cat contact.txt</code></h3>
 
-<a href="https://github.com/Tracevikas/portfoliov2"><img src="https://img.shields.io/badge/Portfolio-portfoliov2-39d353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vikas Kushwaha portfolio" /></a>
+<a href="https://vikaskushwaha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-vikaskushwaha.vercel.app-39d353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vikas Kushwaha portfolio" /></a>
 <a href="https://www.linkedin.com/in/vikas-kushwaha-098844297/"><img src="https://img.shields.io/badge/LinkedIn-vikas--kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vikas Kushwaha on LinkedIn" /></a>
 <a href="https://github.com/Tracevikas"><img src="https://img.shields.io/badge/GitHub-Tracevikas-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vikas Kushwaha on GitHub" /></a>
 
